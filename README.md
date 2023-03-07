@@ -1,5 +1,4 @@
-# Daily oil prices in Ecuador
-- Daily oil price. Includes values during both the train and test data timeframes. (Ecuador is an oil-dependent country and it's economical health is highly vulnerable to shocks in oil prices.
+# FedEx - Stock Price Analysis
 
 ## To convert a column into time-series object of daily data
 ```{r}
